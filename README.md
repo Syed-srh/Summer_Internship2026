@@ -93,6 +93,3 @@ Each task folder contains a task-specific README, notebook, and any required dat
 - Review the task-specific README files for model metrics, preprocessing decisions, and generated deliverables.
 - Do not commit sensitive credentials, private datasets, or local environment folders such as `.venv/`.
 
-## Author
-
-Asim
