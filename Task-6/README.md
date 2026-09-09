@@ -34,5 +34,3 @@ To build a Linear Regression model to predict house prices using the California 
 ## Results
 The Linear Regression model was able to predict house prices with reasonable accuracy. The scatter plot shows a positive correlation between actual and predicted values.
 
-## Author
-Asim
