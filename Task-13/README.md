@@ -1,0 +1,3 @@
+# Task-13
+# PCA Dimensionality Reduction
+In this task, I applied Principal Component Analysis (PCA) for dimensionality reduction using the Scikit-learn digits dataset. The workflow included scaling features with StandardScaler, applying PCA with different component values, and plotting cumulative explained variance to choose the optimal number of components. The original dataset was transformed into a reduced dimensional dataset and Logistic Regression models were trained on both original and PCA-reduced data to compare accuracy. A 2D PCA scatter plot was also created to visualize data separation. Tools used: Python, Scikit-learn, and Matplotlib.

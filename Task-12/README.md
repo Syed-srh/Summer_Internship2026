@@ -1,0 +1,3 @@
+# Task-12
+# KMeans Customer Segmentation
+In this task, I performed customer segmentation using the Mall Customer dataset and applied the KMeans clustering algorithm to group customers based on income and spending score. The workflow included loading the dataset, removing the CustomerID column, applying StandardScaler for balanced distance calculation, and running KMeans for multiple K values to create an elbow plot and identify the optimal number of clusters. The final model was trained using the selected K value, cluster labels were added back to the dataset, and clusters were visualized using a scatter plot. The segmented dataset was saved as a CSV file. Tools used: Python, Scikit-learn, and Matplotlib.

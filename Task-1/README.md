@@ -1,0 +1,2 @@
+# Task-1
+No, the datasets are not currently suitable to be used for machine learning. There are multiple values missing in the datasets that need to be taken care of. The data in the datasets is imbalanced, which also need to be balanced to avoid the model being biased. I have performed operations to load datasets and read them using pandas and used data.head, data.tail, data.describe and data.info.

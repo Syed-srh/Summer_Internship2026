@@ -1,0 +1,3 @@
+# Task-11
+SVM Breast Cancer Classification
+In this task, I built a Support Vector Machine (SVM) model to classify breast cancer using the built-in Scikit-learn Breast Cancer dataset. The workflow included loading and exploring the dataset, applying StandardScaler for feature normalization, splitting the data into training and testing sets, and training SVM models using both Linear and RBF kernels. Hyperparameter tuning was performed using GridSearchCV to find the best values of C and gamma. The final model was evaluated using accuracy, confusion matrix, classification report, ROC curve, and AUC score. A complete pipeline combining the scaler and tuned SVM model was created and saved for future use. Tools used: Python, Scikit-learn, Matplotlib.
