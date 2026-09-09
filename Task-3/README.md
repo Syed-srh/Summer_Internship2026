@@ -34,5 +34,4 @@ To explore datasets visually and statistically to understand patterns, relations
 ## Final Outcome
 This task builds a strong foundation in understanding data behavior before applying machine learning.
 
-## Author
-Asim
+
