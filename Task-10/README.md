@@ -34,6 +34,3 @@ The Sklearn Digits dataset is built-in, easy to use, and officially mentioned as
 
 ## Final Outcome
 This task demonstrates distance-based classification and hyperparameter tuning using KNN.
-
-## Author
-Asim
