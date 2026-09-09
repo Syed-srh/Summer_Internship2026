@@ -37,6 +37,3 @@ To build a Random Forest model to detect fraudulent credit card transactions and
 
 ## Final Outcome
 This task demonstrates ensemble learning and handling imbalanced datasets for fraud detection.
-
-## Author
-Asim
