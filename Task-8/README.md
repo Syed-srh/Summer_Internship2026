@@ -37,6 +37,3 @@ To build a Decision Tree classifier to predict whether a customer will subscribe
 
 ## Final Outcome
 This task demonstrates interpretable machine learning using Decision Trees and rule-based predictions.
-
-## Author
-Asim
